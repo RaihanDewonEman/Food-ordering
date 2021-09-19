@@ -1,3 +1,4 @@
 # Food-ordering
-A Python project<br>
-Connect with postgresql, then create a new database and perform different sql operation to insert, modify, retrieve and delete data.
+<h2>A Python project</h2><br>
+Connect with postgresql database, then create a new database and perform different sql operation to insert, modify, retrieve and delete data.
+
